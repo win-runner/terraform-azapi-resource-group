@@ -14,5 +14,6 @@ output "resource_group_id" {
 }
 
 output "role_definitions" {
-  value = local.role_definition_map
+  description = "The role definitions for the resource group."
+  value       = local.role_definition_map
 }
