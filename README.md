@@ -30,7 +30,7 @@
 | <a name="output_resource_group_name"></a> [resource\_group\_name](#output\_resource\_group\_name) | The name of the resource group. |
 | <a name="output_resource_group"></a> [resource\_group](#output\_resource\_group) | This is the full output for the resource group. |
 | <a name="output_resource_group_id"></a> [resource\_group\_id](#output\_resource\_group\_id) | The ID of the resource group. |
-| <a name="output_role_definitions"></a> [role\_definitions](#output\_role\_definitions) | n/a |
+| <a name="output_role_definitions"></a> [role\_definitions](#output\_role\_definitions) | The role definitions for the resource group. |
 <!-- END_TF_DOCS -->
 
 ## Examples
