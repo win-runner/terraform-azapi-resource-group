@@ -53,6 +53,6 @@ EOT
 }
 
 variable "subscription_id" {
-  description = "The subscription ID to query for role definitions."
   type        = string
+  description = "The subscription ID to query for role definitions."
 }
