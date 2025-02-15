@@ -45,8 +45,8 @@ module "resource_group_storage" {
 
   role_assignments = {
     Contributor = {
-    principalId   = "12345678-1234-1234-1234-123456789012"
-    principalType = "User"
+      principalId   = "12345678-1234-1234-1234-123456789012"
+      principalType = "User"
     }
 
     "Storage Blob Data Contributor" = {
